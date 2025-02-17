@@ -1,0 +1,3 @@
+classes:
+  dao: 'com.jee.dynamic_instanciation.dao.IDaoImpl'
+  metier: 'com.jee.dynamic_instanciation.metier.MetierImpl'
